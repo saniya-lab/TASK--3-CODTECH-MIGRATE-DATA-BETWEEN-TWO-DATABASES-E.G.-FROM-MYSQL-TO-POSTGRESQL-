@@ -31,7 +31,11 @@ Technologies and Tools Used
 The project was implemented using Python 3, which provides the built-in sqlite3 module for interacting with SQLite databases. SQLite was chosen because it is lightweight, file-based, and does not require server setup, making it ideal for small-scale migration projects and learning exercises. The project was developed and tested on the Windows operating system, using the Command Prompt to run the Python scripts.
 
 Outcome and Conclusion
+
 The project was completed successfully, with the source database created, data migrated to the target database, and verification confirming that all data was accurately transferred. This task not only demonstrated practical skills in Python scripting and SQLite database management but also emphasized the importance of data integrity during migration. The project provides a foundation for handling more complex database migrations in future real-world scenarios, including migrations between different database systems like MySQL, PostgreSQL, or SQL Server.
 
 Overall, this task enhanced understanding of database operations, scripting for automation, and the systematic approach required for accurate and reliable data migration. The project meets the requirements of CODTECH Task-3 and can be considered a successful demonstration of database migration skills.
 
+*OUTPUT*:
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/a65b7476-d3c9-4f7c-bc19-19c5f3417c62" />
